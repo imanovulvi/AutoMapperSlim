@@ -11,9 +11,7 @@
 
 ---
 - `Dependency Injection`
-```bash
-builder.Services.AddAutoMapperSlimServices();
-```bash
+<pre> ```bash builder.Services.AddAutoMapperSlimServices(); ``` </pre>
 
 ## 🔧 Installation
 
