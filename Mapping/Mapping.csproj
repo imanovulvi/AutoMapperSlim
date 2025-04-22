@@ -10,6 +10,11 @@
     <Company>Imanov Ulvi</Company>
     <Copyright>Copyright 2025</Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/imanovulvi/AutoMapperSlim.git</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>AutoMapper Map Slim</PackageTags>
+    <NeutralLanguage>az</NeutralLanguage>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
