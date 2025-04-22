@@ -11,7 +11,8 @@
 
 ---
 - `Dependency Injection`
-- builder.Services.AddAutoMapperSlimServices();
+```bash
+builder.Services.AddAutoMapperSlimServices();
 
 ## 🔧 Installation
 
